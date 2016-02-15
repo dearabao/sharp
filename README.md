@@ -1,5 +1,6 @@
 # sharp
 add a test line
+add second test line.
 add third test line.
 The typical use case for this high speed Node.js module
 is to convert large images of many formats to
